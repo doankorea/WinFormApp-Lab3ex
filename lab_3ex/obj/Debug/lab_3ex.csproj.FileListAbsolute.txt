@@ -1,0 +1,15 @@
+D:\WinformApp\lab_3ex\lab_3ex\bin\Debug\lab_3ex.exe.config
+D:\WinformApp\lab_3ex\lab_3ex\bin\Debug\lab_3ex.exe
+D:\WinformApp\lab_3ex\lab_3ex\bin\Debug\lab_3ex.pdb
+D:\WinformApp\lab_3ex\lab_3ex\bin\Debug\Interop.WMPLib.dll
+D:\WinformApp\lab_3ex\lab_3ex\bin\Debug\AxInterop.WMPLib.dll
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.csproj.AssemblyReference.cache
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\Interop.WMPLib.dll
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\AxInterop.WMPLib.dll
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.csproj.ResolveComReference.cache
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.Form1.resources
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.Properties.Resources.resources
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.csproj.GenerateResource.cache
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.csproj.CoreCompileInputs.cache
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.exe
+D:\WinformApp\lab_3ex\lab_3ex\obj\Debug\lab_3ex.pdb
